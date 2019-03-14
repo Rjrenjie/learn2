@@ -1,3 +1,7 @@
 This is branch1.
 local add newline......
-master add.
+<<<<<<< HEAD
+all add.
+=======
+all add1.
+>>>>>>> dev1
