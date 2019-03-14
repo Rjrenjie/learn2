@@ -1,2 +1,3 @@
 This is branch1.
 local add newline......
+master add.
